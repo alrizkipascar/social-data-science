@@ -24,3 +24,8 @@ Available platform to collect data:
 Available Notebook to process the data:
 1. Instagram.
 2. Twitter.
+
+
+# The Flow for the next update
+
+![graph](https://github.com/alrizkipascar/social-data-science/assets/87491167/9492f364-9a6a-4741-8cfe-2122a896adb8)
