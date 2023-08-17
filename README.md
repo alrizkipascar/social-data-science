@@ -27,5 +27,7 @@ Available Notebook to process the data:
 
 
 # The Flow for the next update
-
-![graph](https://github.com/alrizkipascar/social-data-science/assets/87491167/9492f364-9a6a-4741-8cfe-2122a896adb8)
+1. Green = Can be used
+2. Orange = Semi complete
+3. Red = Still in progress
+![graph](https://github.com/alrizkipascar/social-data-science/assets/87491167/d9c9e79c-e7b7-4111-ada6-9e89b38ca448)
